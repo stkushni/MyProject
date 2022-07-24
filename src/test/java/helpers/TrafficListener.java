@@ -1,2 +1,4 @@
-package helpers;public class TrafficListener {
+package helpers;
+
+public class TrafficListener {
 }
