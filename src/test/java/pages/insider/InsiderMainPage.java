@@ -1,2 +1,4 @@
-package pages.insider;public class InsiderMainPage {
+package pages.insider;
+
+public class InsiderMainPage {
 }

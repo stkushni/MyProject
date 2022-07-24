@@ -1,2 +1,4 @@
-package base;public class PageBase {
+package base;
+
+public class PageBase {
 }
